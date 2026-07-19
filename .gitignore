@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pdf
+resume_pdf_text.txt
+.codebuddy/memory/
