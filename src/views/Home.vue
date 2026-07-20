@@ -244,7 +244,7 @@ onUnmounted(() => {})
           <ScrollReveal class="order-2 lg:order-1">
             <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 text-xs font-medium mb-6">
               <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              Software Engineer | AI Enthusiast
+              Software & Java Developer | AI & NLP Enthusiast
             </div>
             <h1 class="text-4xl sm:text-5xl lg:text-6xl font-display font-bold mb-4">
               Hi, I'm <span class="gradient-text"> Simul</span>
