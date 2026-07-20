@@ -238,9 +238,9 @@ onUnmounted(() => {})
     <ParticleBackground />
 
     <!-- Hero -->
-    <section id="home" class="relative min-h-screen flex items-center pt-20 pb-12 overflow-hidden">
+    <section id="home" class="relative min-h-0 lg:min-h-screen flex items-start lg:items-center pt-16 pb-8 lg:pt-20 lg:pb-12 overflow-hidden">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
-        <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="grid lg:grid-cols-2 gap-6 lg:gap-12 items-center">
           <ScrollReveal class="order-1 lg:order-1">
             <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 text-xs font-medium mb-6">
               <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
@@ -273,7 +273,7 @@ onUnmounted(() => {})
           <ScrollReveal class="order-2 lg:order-2" delay="200">
             <div class="flex flex-col lg:flex-row items-center justify-center gap-6">
               <!-- Globe -->
-              <div class="relative w-64 h-64 sm:w-80 sm:h-80 shrink-0">
+              <div class="relative w-64 h-64 sm:w-80 sm:h-80 shrink-0 hidden lg:block">
                 <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] rounded-full bg-gradient-to-br from-primary-500/20 to-accent-500/20 blur-3xl" />
                 <svg viewBox="0 0 500 500" class="relative w-full h-full drop-shadow-2xl">
                   <defs>
