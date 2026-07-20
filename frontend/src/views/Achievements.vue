@@ -11,25 +11,25 @@ const filtered = computed(() =>
     : achievements.filter((a) => a.type === activeType.value)
 )
 
-const typeLabels: Record<string, string> = {
+const typeLabels = {
   award: 'Award',
   competition: 'Competition',
   certification: 'Certification',
 }
 
-const typeColors: Record<string, string> = {
+const typeColors = {
   award: 'from-amber-500/10 via-amber-500/5 to-transparent border-amber-500/20',
   competition: 'from-purple-500/10 via-purple-500/5 to-transparent border-purple-500/20',
   certification: 'from-primary-500/10 via-primary-500/5 to-transparent border-primary-500/20',
 }
 
-const typeIcons: Record<string, string> = {
+const typeIcons = {
   award: '🏆',
   competition: '🥇',
   certification: '📜',
 }
 
-const typeBadgeColors: Record<string, string> = {
+const typeBadgeColors = {
   award: 'bg-amber-500/10 text-amber-400 border-amber-500/20',
   competition: 'bg-purple-500/10 text-purple-400 border-purple-500/20',
   certification: 'bg-primary-500/10 text-primary-400 border-primary-500/20',
