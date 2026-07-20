@@ -1,8 +1,16 @@
 node_modules/
 dist/
+dist-ssr/
 .env
 .DS_Store
 *.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.local
 .vscode/
 .idea/
 __pycache__/
@@ -10,3 +18,8 @@ __pycache__/
 *.pdf
 resume_pdf_text.txt
 .codebuddy/memory/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

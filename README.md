@@ -45,7 +45,7 @@ I'm a Software Engineering student at Chengdu Neusoft University specializing in
 ```bash
 # Clone the repo
 git clone https://github.com/simul49/portfolio.git
-cd portfolio/frontend
+cd portfolio
 
 # Install dependencies
 npm install
@@ -68,17 +68,23 @@ The dev server runs at `http://localhost:5173` by default.
 
 ```
 portfolio/
-├── frontend/
-│   ├── public/
-│   │   ├── images/          # Avatar, hero, project screenshots
-│   │   └── resume.pdf       # Downloadable resume
-│   └── src/
-│       ├── components/      # Navbar, Footer, ScrollReveal, etc.
-│       ├── data/            # Content: personal, skills, projects, achievements
-│       ├── router/          # Vue Router config
-│       ├── views/           # Home, Blog, Contact pages
-│       ├── App.vue
-│       └── main.js
+├── public/
+│   ├── images/          # Avatar, hero, project screenshots
+│   ├── CNAME            # Custom domain config for GitHub Pages
+│   ├── 404.html         # SPA redirect for GitHub Pages
+│   └── resume.pdf       # Downloadable resume
+├── src/
+│   ├── components/      # Navbar, Footer, ScrollReveal, etc.
+│   ├── data/            # Content: personal, skills, projects, achievements
+│   ├── router/          # Vue Router config
+│   ├── views/           # Home, Blog, Contact pages
+│   ├── App.vue
+│   └── main.js
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
 └── README.md
 ```
 
