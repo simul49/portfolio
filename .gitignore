@@ -16,6 +16,7 @@ lerna-debug.log*
 __pycache__/
 *.pyc
 *.pdf
+!public/resume.pdf
 resume_pdf_text.txt
 .codebuddy/memory/
 *.suo
