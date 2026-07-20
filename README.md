@@ -4,7 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-Personal portfolio website for **Islam MD Simul (施慕)**, a Software Engineer & AI Researcher based in Chengdu, China.
+Personal portfolio website for ** Simul (施慕)**, a Software Engineer & AI Researcher based in Chengdu, China.
 
 🌐 **Live:** [www.simul49.com](https://www.simul49.com)
 
@@ -94,13 +94,13 @@ portfolio/
 
 - **Email:** simul4690@gmail.com
 - **WeChat:** simul49
-- **Telegram:** Simul49
+- **Telegram:** simul49
 - **QQ:** 3943553604
 - **GitHub:** [@simul49](https://github.com/simul49)
-- **LinkedIn:** [Islam MD Simul](https://www.linkedin.com/in/islam-md-simul-9a8712233/)
+- **LinkedIn:** [@simul]49(https://www.linkedin.com/in/simul49/)
 
 ---
 
 ## 📄 License
 
-MIT © Islam MD Simul
+MIT © Simul
