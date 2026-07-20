@@ -241,7 +241,7 @@ onUnmounted(() => {})
     <section id="home" class="relative min-h-screen flex items-center pt-20 pb-12 overflow-hidden">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div class="grid lg:grid-cols-2 gap-12 items-center">
-          <ScrollReveal class="order-2 lg:order-1">
+          <ScrollReveal class="order-1 lg:order-1">
             <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 text-xs font-medium mb-6">
               <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
               Software & Java Developer | AI & NLP Enthusiast
@@ -270,7 +270,7 @@ onUnmounted(() => {})
             </div>
           </ScrollReveal>
 
-          <ScrollReveal class="order-1 lg:order-2" delay="200">
+          <ScrollReveal class="order-2 lg:order-2" delay="200">
             <div class="flex flex-col lg:flex-row items-center justify-center gap-6">
               <!-- Globe -->
               <div class="relative w-64 h-64 sm:w-80 sm:h-80 shrink-0">
