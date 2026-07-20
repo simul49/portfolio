@@ -19,8 +19,8 @@ export const personalInfo = {
     `Beyond development, I am passionate about AI research, intelligent systems, and next-generation software architecture. My long-term goal is to contribute to advanced AI technologies that bridge cutting-edge research with practical engineering solutions and create meaningful impact in the real world.`,
   ],
   tagline: 'Building intelligent systems that solve real-world problems.',
-  resumeUrl: '/Simul_Resume_2026.pdf',
-  cvUrl: '/6. Simul - Resume.pdf',
+  resumeUrl: '/resume.pdf',
+  cvUrl: '/resume.pdf',
   avatar: '/images/avatar.png',
   heroImage: '/images/hero.png',
 }
@@ -48,5 +48,5 @@ export const quickLinks = [
   { name: 'Skills', href: '#skills' },
   { name: 'Achievements', href: '#achievements' },
   { name: 'Blog', href: '/blog' },
-  { name: 'Download CV', href: '/6. Simul - Resume.pdf', download: true },
+  { name: 'Download CV', href: '/resume.pdf', download: true },
 ]
