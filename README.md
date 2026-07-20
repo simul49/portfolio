@@ -97,7 +97,7 @@ portfolio/
 - **Telegram:** simul49
 - **QQ:** 3943553604
 - **GitHub:** [@simul49](https://github.com/simul49)
-- **LinkedIn:** [@simul]49(https://www.linkedin.com/in/simul49/)
+- **LinkedIn:** [@simul49](https://www.linkedin.com/in/simul49/)
 
 ---
 
